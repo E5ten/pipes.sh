@@ -38,7 +38,7 @@ If you want to install, you can run:
 
 .. code:: sh
 
-  $ make install
+  # make install
 
 By default, it installs to ``/usr/local``; for user home, you can run:
 
